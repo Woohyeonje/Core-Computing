@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1주차 강의
-nav_order: 1
+nav_order: 3
 ---
 
 #1 기본자료형과 입출력
