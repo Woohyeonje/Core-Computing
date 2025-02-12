@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1주차 강의
+title: 01. 기본자료형과 입출력
 nav_order: 3
 ---
 
@@ -467,36 +467,3 @@ with open("output.txt", "w") as f:
 - 입력과 출력을 활용할 수 있다.
 - `eval()`과 `ast.literal_eval()`을 이해하고 활용할 수 있다.
 - 포맷팅된 출력을 사용할 수 있다.
-
-
-
-
-```python
-!jupyter
-
-```
-
-    usage: jupyter [-h] [--version] [--config-dir] [--data-dir] [--runtime-dir] [--paths] [--json]
-                   [--debug]
-                   [subcommand]
-    
-    Jupyter: Interactive Computing
-    
-    positional arguments:
-      subcommand     the subcommand to launch
-    
-    options:
-      -h, --help     show this help message and exit
-      --version      show the versions of core jupyter packages and exit
-      --config-dir   show Jupyter config dir
-      --data-dir     show Jupyter data dir
-      --runtime-dir  show Jupyter runtime dir
-      --paths        show all Jupyter paths. Add --json for machine-readable format.
-      --json         output paths as machine-readable json
-      --debug        output debug information about paths
-    
-    Available subcommands: bundlerextension console dejavu execute kernel kernelspec migrate nbclassic
-    nbconvert nbextension notebook run server serverextension troubleshoot trust
-    
-    Please specify a subcommand or one of the optional arguments.
-
