@@ -6,10 +6,16 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# 소개
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+F37.204 컴퓨팅 핵심: 컴퓨터로 생각하기
+
+Core Computing: Thinking with Computers
+
+이 강좌에서는 컴퓨팅 사고력 배양시키기 위한 목적으로 파이썬 프로그래밍과 알고리즘을 다룬다.
+
+컴퓨팅 핵심: 컴퓨터로 생각하기 002 강좌 수강생들을 위한 자료이니 복제, 무단배포, 링크공유를 금합니다.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
