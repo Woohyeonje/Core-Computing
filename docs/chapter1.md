@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 01. 기본자료형과 입출력
-nav_order: 3
+nav_order: 4
 ---
 
 #1 기본자료형과 입출력
